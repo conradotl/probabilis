@@ -27,7 +27,7 @@ pb.resumo(dados)
 Também é possível importar módulos diretamente:
 
 ```python
-from pb import emg, cop, imu, plotting, utils
+from probabilis import emg, cop, imu, plotting, utils
 ```
 
 ## Módulos
